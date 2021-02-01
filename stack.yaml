@@ -22,7 +22,8 @@ user-message: |
 #
 # resolver: ./custom-snapshot.yaml
 # resolver: https://example.com/snapshots/2018-01-01.yaml
-resolver: lts-14.27
+resolver: nightly-2020-12-14
+  #lts-14.27
 
 # User packages to be built.
 # Various formats can be used as shown in the example below.

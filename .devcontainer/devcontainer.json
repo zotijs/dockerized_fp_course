@@ -15,7 +15,7 @@
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": ["justusadam.language-haskell","alanz.vscode-hie-server" , "jcanero.hoogle-vscode"]
+	"extensions": ["haskell.haskell"]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],

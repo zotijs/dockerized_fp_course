@@ -33,7 +33,7 @@ library
 
   build-depends:      base >= 4 && < 5
                     , containers >= 0.5 && < 0.7
-                    , time >= 1.8 && < 1.9
+                    , time >= 1.8 
 
   ghc-options:        -Wall
                       -fwarn-incomplete-uni-patterns
