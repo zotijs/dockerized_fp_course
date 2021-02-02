@@ -452,3 +452,7 @@ repository root.)
 * [The Haskell `error` function](http://hackage.haskell.org/packages/archive/base/latest/doc/html/Prelude.html#v:error)
 
 * [Glasgow Haskell Compiler](http://haskell.org/ghc)
+
+### Props
+
+* Cloned from [pnas repo](https://github.com/pnas/dockerized_fp_course)
