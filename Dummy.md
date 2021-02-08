@@ -8,4 +8,4 @@
 ## Usefull commands
 - install needed packages: `stack setup` and/or `stack setup --allow-different-user`
 - open ghci: `stack ghci`
-- run tests: `test test_<test_name>` e.g. `test_test_Optional`
+- run tests: `test test_<test_name>` e.g. `test test_Optional`
